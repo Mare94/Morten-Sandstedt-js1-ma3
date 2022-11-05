@@ -4,7 +4,7 @@
 return a % b;
 }*/
 
-const getRemainder = (a, b) => a % b;
+const getRemainder = (a,b) => a % b;
 
 const results = getRemainder(4, 7);
 
